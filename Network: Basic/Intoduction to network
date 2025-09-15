@@ -1,0 +1,52 @@
+Introduction to Networking Technologies
+
+Networking technologies are the foundation of modern communication and data exchange. They allow devices to interact with each other, transmit information, and provide access to resources. In this lesson, we will explore the basic concepts used in networking technologies and familiarize ourselves with the main components of computer networks.
+
+▎Basic Concepts
+
+▎1. Computer Network
+
+A computer network is a group of computers and other devices connected together for data exchange. Networks can be local (LAN) or global (WAN).
+
+• Local Area Network (LAN): a limited geographical area, such as an office or home.
+• Wide Area Network (WAN): connects devices over large distances, such as the Internet.
+
+▎2. Protocols
+
+Protocols are the rules and standards that define how data is transmitted over a network. The most well-known protocol is TCP/IP, which is used on the Internet. It is divided into two main protocols:
+
+• TCP (Transmission Control Protocol): responsible for reliable data transmission.
+• IP (Internet Protocol): provides addressing and routing of data.
+
+▎3. IP Addressing
+
+Each device on a network has a unique address called an IP address. This allows the device to be identified and data to be directed to it. There are two types of IP addresses:
+
+• IPv4: consists of four numbers from 0 to 255, separated by periods (e.g., 192.168.1.1).
+• IPv6: a newer standard that uses hexadecimal numbers and provides a larger number of addresses.
+
+▎4. Network Devices
+
+There are various devices that help create and manage networks:
+
+• Router: a device that directs data between different networks.
+• Switch: a device that connects devices in a local network and manages data transmission between them.
+• Modem: a device that converts digital signals to analog and vice versa, allowing connection to the Internet.
+
+▎Main Types of Networks
+
+▎1. Network Topologies
+
+Topology defines how devices are connected to each other. There are several basic topologies:
+
+• Bus Topology: all devices are connected to a single cable.
+• Star Topology: all devices are connected to a central switch or router.
+• Ring Topology: each device is connected to two others, forming a ring.
+
+▎2. Wireless Networks
+
+Wireless networks (Wi-Fi) allow devices to connect without wires. They use radio waves to transmit data and require the presence of an access point.
+
+▎Conclusion
+
+Networking technologies are an important part of our daily lives. Understanding the basic concepts and components of networks will help you better navigate the world of technology and utilize its capabilities. In future lessons, we will delve deeper into specific technologies and protocols, as well as explore practical aspects of network setup and management.
